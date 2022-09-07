@@ -1,6 +1,6 @@
 header {
     background: linear-gradient(180deg, #122b55 0%, #181818 100%);
-    height: 220px;
+    height: 280px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -25,3 +25,5 @@ header {
     font-size: 14px;
     font-weight: 300;
   }
+
+  

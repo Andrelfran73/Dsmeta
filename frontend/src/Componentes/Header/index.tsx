@@ -5,14 +5,14 @@ function Header() {
     return (
         <header>
             <div className="dsmeta-logo-container">
-                <img src= {logo} alt="DSMeta" />
-                <h1>DSMeta</h1>
-                <p>
-                    Desenvolvido por
-                    <a href="">André Luis</a>
-                </p>
+                <img src={logo} alt="DSMeta" />
+                <h1>Alpha Sales</h1>
+                <h1>Índices de Vendas</h1>
+                <p>By André Luis &copy; Septiembre 2022 - Initial Version </p>
+                <a href="https://github.com/Andrelfran73" target="_blank">GitHub.com</a>
+                <a href="https://www.linkedin.com/in/andr%C3%A9-luis-francisco-a76ab832/" target="_blank">Linkedin.com </a>
             </div>
-        </header>
+        </header >
     )
 }
 export default Header;

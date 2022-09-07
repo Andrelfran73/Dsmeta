@@ -1,6 +1,6 @@
 import { useState } from "react";
-import DatePicker from "react-datepicker";
-import "react-datepicker/dist/react-datepicker.css";
+import DatePicker from "react-datepicker";/*importando o datepiker do github*/
+import "react-datepicker/dist/react-datepicker.css";/*importando o datepiker CSS do github*/
 import NotificationButton from '../NotificationButton';
 import './styles.css';
 
